@@ -9,6 +9,7 @@ app = Flask(__name__)
 app.secret_key = 'SECRETSECRETSECRET'
 
 
+EVENT_SEARCH_URL = 
 API_KEY = os.environ['TICKETMASTER_KEY']
 
 
